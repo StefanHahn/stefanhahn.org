@@ -4,21 +4,29 @@ body {
             Roboto, Oxygen-Sans, Ubuntu, Cantarell,
             "Helvetica Neue", sans-serif;
       line-height: 1.5;
-      color: rgb(73, 68, 68);
-      background-color: rgb(252,252,252);
+      /*color: rgb(73, 68, 68);*/
+      /*background-color: rgb(252,252,252);*/
+      /*background-color:  rgb(245,240,240);*/
+      /*color: hsl(200, 50%, 27%);*/
+      background-color: hsl(0, 0%, 94%);
+      color: hsl(0, 0%, 27%);
 }
-
 #header,
 #content {
       margin: 1em auto;
       width: 90%;
       max-width: 60ch;
 }
-
+h1 {
+      color: hsl(200, 50%, 27%);
+}
 a:hover {
       text-decoration: none;
 }
-
+/*hr {
+    border: 2px solid hsl(20, 100%, 35%);
+    background-color: hsl(20, 100%, 50%);
+}*/
 /*https://www.digitalocean.com/community/tutorials/how-to-select-html-elements-using-id-class-and-attribute-selectors-in-css*/
 
 /*https://www.digitalocean.com/community/tutorials/css-system-font-stack*/
