@@ -1,0 +1,24 @@
+
+body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+            Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+            "Helvetica Neue", sans-serif;
+      line-height: 1.5;
+      color: rgb(73, 68, 68);
+      background-color: rgb(252,252,252);
+}
+
+#header,
+#content {
+      margin: 1em auto;
+      width: 90%;
+      max-width: 60ch;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+/*https://www.digitalocean.com/community/tutorials/how-to-select-html-elements-using-id-class-and-attribute-selectors-in-css*/
+
+/*https://www.digitalocean.com/community/tutorials/css-system-font-stack*/
