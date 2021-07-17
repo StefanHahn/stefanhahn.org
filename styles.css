@@ -17,7 +17,7 @@ body {
       width: 90%;
       max-width: 60ch;
 }
-h1 {
+h1, h4 {
       color: hsl(200, 50%, 27%);
 }
 a:hover {
