@@ -81,7 +81,7 @@ a[href*="//"]:hover:after {
 /* ------- Smaller screens ------- */
 
 @media only screen and (max-width: 680px) {
-  body { font-size: 12px; }
+  body { font-size: 13px; }
 }
 
 @media only screen and (max-width: 540px) {
