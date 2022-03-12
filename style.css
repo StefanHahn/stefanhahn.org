@@ -64,6 +64,6 @@ a[href*="//"]:hover:after {
 }
 
 @media only screen and (max-width: 540px) {
-  body {width: 272px;font-size: 0.8em;}
+  body {width: 272px;font-size: 0.9em;}
   img {width: 272px;}
 }
